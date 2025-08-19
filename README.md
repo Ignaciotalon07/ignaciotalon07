@@ -82,6 +82,11 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+       alt="docker" width="50" height="50"/>
+</a>
+
 </p>
 
 
