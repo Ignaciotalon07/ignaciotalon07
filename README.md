@@ -96,16 +96,6 @@
   </a>
 </p>
 
-<style>
-  .social-icon img {
-    transition: transform 0.3s ease;
-  }
-  .social-icon:hover img {
-    transform: scale(1.2);
-  }
-</style>
-
-
 ------
 
 
