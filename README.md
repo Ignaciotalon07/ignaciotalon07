@@ -51,9 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" 
        alt="nestjs" width="50" height="50"/>
   </a>
-
   <br><br>
-
   <!-- Frameworks y librerías -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
