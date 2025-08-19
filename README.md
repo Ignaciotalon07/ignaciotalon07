@@ -11,7 +11,11 @@
 
 <br>
 <h2 align="left">⭐ Languages and Tools:</h2>
-<p align="left"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<p align="left"><a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" 
+       alt="redis" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
        alt="typescript" width="40" height="40"/>
 </a>
