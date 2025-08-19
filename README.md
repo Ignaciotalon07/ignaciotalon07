@@ -11,7 +11,11 @@
 
 <br>
 <h2 align="left">⭐ Languages and Tools:</h2>
-<p align="left"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<p align="left"><a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" 
+       alt="sequelize" width="40" height="40"/>
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://reactnative.dev/img/header_logo.svg" 
        alt="react native" width="40" height="40"/>
 </a>
