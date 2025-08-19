@@ -84,17 +84,27 @@
  ---------------------------------------
  
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ignacio-talon-6818a3285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="50" width="50" /></a>
-<a href="https://mail.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
-       alt="Gmail" width="50" height="50"/>
-</a>
-
-
-
-<a href="https://instagram.com/igntalon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="50" width="50" /></a>
+<p align="left" style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.linkedin.com/in/ignacio-talon-6818a3285/" target="_blank" class="social-icon">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://mail.google.com/" target="_blank" rel="noreferrer" class="social-icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="50" height="50"/>
+  </a>
+  <a href="https://instagram.com/igntalon_" target="_blank" class="social-icon">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50"/>
+  </a>
 </p>
+
+<style>
+  .social-icon img {
+    transition: transform 0.3s ease;
+  }
+  .social-icon:hover img {
+    transform: scale(1.2);
+  }
+</style>
+
 
 ------
 
