@@ -47,6 +47,11 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" 
+       alt="nestjs" width="50" height="50"/>
+  </a>
+
   <br><br>
 
   <!-- Frameworks y librerías -->
