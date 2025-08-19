@@ -11,7 +11,10 @@
 
 <br>
 <h2 align="left">⭐ Languages and Tools:</h2>
-<p align="left"><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<p align="left"><a href="https://camo.githubusercontent.com/147e774cd0fb38708b34a294553e7513a55e93c26585908f3a1d629335522f29/68747470733a2f2f7669737461706f696e74652e6e65742f696d616765732f6d6f6e676f6f73652d6e6f64612d77616c6c70617065722d362e6a7067" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/moongoose-original-wordmark.svg" 
+       alt="express" width="40" height="40"/>
+</a><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
        alt="express" width="40" height="40"/>
 </a>
