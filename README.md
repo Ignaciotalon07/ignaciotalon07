@@ -80,7 +80,16 @@
 
 
 <h2>📌 My personal projects</h2>
+<h2 align="center">PIGMENTS 2.0</h2>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="assets/captura1.png" alt="Captura 1" width="300" style="border-radius: 8px;"/>
+  <img src="assets/captura2.png" alt="Captura 2" width="300" style="border-radius: 8px;"/>
+  <img src="assets/captura3.png" alt="Captura 3" width="300" style="border-radius: 8px;"/>
+  <img src="assets/captura4.png" alt="Captura 4" width="300" style="border-radius: 8px;"/>
+  <img src="assets/captura5.png" alt="Captura 5" width="300" style="border-radius: 8px;"/>
+  <img src="assets/captura6.png" alt="Captura 6" width="300" style="border-radius: 8px;"/>
+</div>
  ---------------------------------------
  
 <h3 align="left">Connect with me:</h3>
