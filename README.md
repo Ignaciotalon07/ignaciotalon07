@@ -88,8 +88,9 @@
 <a href="https://www.linkedin.com/in/ignacio-talon-6818a3285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="50" width="50" /></a>
 <a href="https://mail.google.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
-       alt="gmail" width="50" height="50"/>
+       alt="Gmail" width="50" height="50"/>
 </a>
+
 
 
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="50" width="50" /></a>
