@@ -94,8 +94,12 @@
 </p>
 
 <p align="center">
-  <img src="./captura3.jpg" alt="Pigments Screenshot 3" width="45%" />
+  <img src="./captur6.jpg" alt="Pigments Screenshot 3" width="45%" />
   <img src="./captura4.jpg" alt="Pigments Screenshot 4" width="45%" />
+</p>
+<p align="center">
+  <img src="./captura9.jpg" alt="Pigments Screenshot 5" width="45%" />
+  <img src="./captura11.jpg" alt="Pigments Screenshot 6" width="45%" />
 </p>
  ---------------------------------------
  
