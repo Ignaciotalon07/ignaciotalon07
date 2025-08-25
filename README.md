@@ -87,19 +87,24 @@
 
 <h2>📌 My personal projects</h2>
 <h3 aling="center"> PIGMENTS 2.0</h3>
-
-<p align="center">
-  <img src="./captura1.jpg" alt="Pigments Screenshot 1" width="45%" />
-  <img src="./captura2.jpg" alt="Pigments Screenshot 2" width="45%" />
+<p>
+PIGMENTS 2.0 es una <b>landing page responsive</b> enfocada en el mundo de la pintura y el diseño. Presenta 
+<b>colores en tendencia</b>, ofrece <b>consejos e ideas creativas</b> para combinar tonalidades, e inspira a los 
+usuarios con propuestas modernas para renovar ambientes.
 </p>
 
 <p align="center">
-  <img src="./captur6.jpg" alt="Pigments Screenshot 3" width="45%" />
-  <img src="./captura4.jpg" alt="Pigments Screenshot 4" width="45%" />
+  <img src="./captura1.jpg" alt="Pigments Screenshot 1" width="50%" />
+  <img src="./captura2.jpg" alt="Pigments Screenshot 2" width="50%" />
+</p>
+
+<p align="center">
+  <img src="./captura6.jpg" alt="Pigments Screenshot 3" width="50%" />
+  <img src="./captura4.jpg" alt="Pigments Screenshot 4" width="50%" />
 </p>
 <p align="center">
-  <img src="./captura9.jpg" alt="Pigments Screenshot 5" width="45%" />
-  <img src="./captura11.jpg" alt="Pigments Screenshot 6" width="45%" />
+  <img src="./captura9.jpg" alt="Pigments Screenshot 5" width="50%" />
+  <img src="./captura11.jpg" alt="Pigments Screenshot 6" width="50%" />
 </p>
  ---------------------------------------
  
