@@ -110,8 +110,6 @@ usuarios con propuestas modernas para renovar ambientes.
   <img src="./captura11.jpg" alt="Pigments Screenshot 6" width="45%" />
 </p>
 
----------------------------------------
-
  ---------------------------------------
  
 <h3 align="left">Connect with me:</h3>
