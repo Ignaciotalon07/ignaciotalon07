@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio Talon</h1>
 
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h2>👨‍💻 Software Development from Argentina to 🌎!</h2>
@@ -88,7 +86,19 @@
 
 
 <h2>📌 My personal projects</h2>
+<h3 aling="center"> PIGMENTS 2.0</h3>
 
+<h3>PIGMENTS 2.0</h3>
+
+<p align="center">
+  <img src="ruta-de-tu-imagen1" alt="Pigments Screenshot 1" width="45%" />
+  <img src="ruta-de-tu-imagen2" alt="Pigments Screenshot 2" width="45%" />
+</p>
+
+<p align="center">
+  <img src="ruta-de-tu-imagen3" alt="Pigments Screenshot 3" width="45%" />
+  <img src="ruta-de-tu-imagen4" alt="Pigments Screenshot 4" width="45%" />
+</p>
  ---------------------------------------
  
 <h3 align="left">Connect with me:</h3>
