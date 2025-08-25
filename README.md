@@ -89,13 +89,13 @@
 <h3 aling="center"> PIGMENTS 2.0</h3>
 
 <p align="center">
-  <img src="captura1.jpeg" alt="Pigments Screenshot 1" width="45%" />
-  <img src="captura2.jpeg" alt="Pigments Screenshot 2" width="45%" />
+  <img src="./captura1.jpeg" alt="Pigments Screenshot 1" width="45%" />
+  <img src="./captura2.jpeg" alt="Pigments Screenshot 2" width="45%" />
 </p>
 
 <p align="center">
-  <img src="captura3.jpg" alt="Pigments Screenshot 3" width="45%" />
-  <img src="captura4.jpeg" alt="Pigments Screenshot 4" width="45%" />
+  <img src="./captura3.jpg" alt="Pigments Screenshot 3" width="45%" />
+  <img src="./captura4.jpeg" alt="Pigments Screenshot 4" width="45%" />
 </p>
  ---------------------------------------
  
